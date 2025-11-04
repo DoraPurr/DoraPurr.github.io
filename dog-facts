@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fun Dog Facts 🐶</title>
+<style>
+body {
+  background: linear-gradient(135deg, #ffe29f, #ffa99f);
+  font-family: "Comic Sans MS", sans-serif;
+  text-align: center;
+  padding: 30px;
+  color: #333;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+ul {
+  font-size: 22px;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 12px 0;
+}
+
+a {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 18px;
+  background: rgba(255,255,255,0.6);
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+a:hover {
+  background: rgba(255,255,255,0.85);
+  transform: scale(1.08);
+  transition: 0.3s;
+}
+</style>
+</head>
+
+<body>
+<h1>🐶 Fun Dog Facts 🐶</h1>
+
+<ul>
+<li>Dogs can learn more than 100 words! 🐾</li>
+<li>Their noses are wet to help absorb smells 👃</li>
+<li>Dogs dream just like humans while they sleep 😴</li>
+<li>The fastest dog breed is the Greyhound! 💨</li>
+<li>Dogs have been human companions for over 14,000 years ❤️</li>
+</ul>
+
+<a href="index.html">⏪ Back to Home</a>
+
+</body>
+</html>
